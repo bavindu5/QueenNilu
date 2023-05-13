@@ -25,7 +25,7 @@ BOT SETTINGS
 */
 
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
-global.LANG = 'EN'
+global.LANG = 'SI'
 
 global.READ_MASSAGE = true
 
